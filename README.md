@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chrismanto Natanail</h1>
-<h3 align="center">I'm Chrismanto Natanail Manik. I'm an iOS Developer with almost 3 years experience and I'm hugely passionate about mobile iOS development. A developer with a production app on App Store using Swift and a second on the way I am committed to clean design and clean code. With a wide variety of cross-transferable skill including strong communication skill at all level, self-motivation to a high standard as well as the desire to learn and problem solve I believe I would be the perfect candidate for any iOS Developer role.</h3>
+<h3 align="justify">I'm Chrismanto Natanail Manik. I'm an iOS Developer with almost 3 years experience and I'm hugely passionate about mobile iOS development. A developer with a production app on App Store using Swift and a second on the way I am committed to clean design and clean code. With a wide variety of cross-transferable skill including strong communication skill at all level, self-motivation to a high standard as well as the desire to learn and problem solve I believe I would be the perfect candidate for any iOS Developer role.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrismanikjr&label=Profile%20views&color=0e75b6&style=flat" alt="chrismanikjr" /> </p>
 
