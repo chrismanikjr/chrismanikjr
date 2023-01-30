@@ -10,10 +10,12 @@ I'm Chrismanto Natanail Manik. I'm an iOS Developer with almost 3 years of exper
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chrismanikjr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chrismanikjr-10/)  
 
+![Profile views](https://gpvc.arturio.dev/chrismanikjr)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismanikjr&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismanikjr)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=chrismanikjr)  
 
-![Profile views](https://gpvc.arturio.dev/chrismanikjr)  
+
