@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chris.manikjr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qKf4zjxvjOIsDC61MREsuMtQBtgytjLK/view?usp=sharing](https://drive.google.com/file/d/1qKf4zjxvjOIsDC61MREsuMtQBtgytjLK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NOxSkslTyXyUEaAce21ifsu1TwzZNiUp/view?usp=sharing](https://drive.google.com/file/d/1NOxSkslTyXyUEaAce21ifsu1TwzZNiUp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
